@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Xingyu Li"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate at Mississippi State University, \\ Machine Learning Engineer - Intern at Devron AI"
+  bio              : "Ph.D. candidate at Mississippi State University, <br> Machine Learning Engineer - Intern at Devron AI"
   location         : "Starkville, MS"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=stA6f5YAAAAJ&hl=en"
   email            : "xl292@msstate.edu"
-  researchgate     : "https://www.researchgate.net/profile/Xingyu-Li-5"
+  researchgate     : #"https://www.researchgate.net/profile/Xingyu-Li-5"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xy-li-link/"
   orcid            : #"http://orcid.org/0000-0002-5547-9894"
   pinterest        :
   soundcloud       :

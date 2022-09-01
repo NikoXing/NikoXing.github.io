@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (Aug 2022)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Engineering, Mississippi State University, 2018 - 2023 (Expected)
+  * Advisor: Prof. Bo Tang
+* M.S. in Computer Engineering, Stevens Institute of Technology, 2015 - 2017
+* B.S. in Electrical Engineering, Xiamen University, 2011 - 2015
 
-Work experience
+
+Work Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,34 +28,38 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+Research Experience
+======
+* Graduate Research Assistant, Mississippi State University, 2018 - 2023
+  * Supervisor: Prof. [Bo Tang](https://my.ece.msstate.edu/faculty/tang/) 
+  <!-- [academicpages template](https://github.com/academicpages/academicpages.github.io) -->
+
+<!-- * Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub -->
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages and Frameworks
+  * Python, Pytorch, Tensorflow, Sklearn, Pandas, Numpy, Matplotlib, MlFlow, Docker
+* Developer Tools 
+  * Git, Unix, Shell, Vscode, Anaconda, Jupyter, AWS
+* Technical
+  * Federated Learning, Distributed Optimization, Computer Vision, AI Security
+* Miscellaneous
+  * Research Leadership, Scrum, Code Review, Mentoring
 
-Publications
+Professional Service
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Program Committee
+  * International Conference on Machine Learning (ICML), 2022
+  * AAAI Conference On Artifical Intelligence (AAAI), 2023
+* Journal Reviewer
+  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* Teaching
+  * Advisor for K12 interns at the CILS Lab
+* Awards
+  * Travel Grant for ICML 2022
+
