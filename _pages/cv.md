@@ -11,25 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Engineering, Mississippi State University, 2018 - 2023 (Expected)
+* <b>Ph.D.<b> in Computer Engineering, Mississippi State University, 2018 - 2023 (Expected)
   * Advisor: Prof. Bo Tang
-* M.S. in Computer Engineering, Stevens Institute of Technology, 2015 - 2017
-* B.S. in Electrical Engineering, Xiamen University, 2011 - 2015
+* <b>M.S.<b> in Computer Engineering, Stevens Institute of Technology, 2015 - 2017
+* <b>B.S.<b> in Electrical Engineering, Xiamen University, 2011 - 2015
   * Bachelor Study Abroad Program, National Tsing Hua University, Jan - May 2013
 
 Work Experience
 ======
-* Machine Learning Engineering - Intern, Devron 
-  * Supervisor: [Sidhartha Roy](https://www.sidhartharoy.com/)
-  * Lead the aggregation algorithm core for the data-private cross-silo federated learning framework.
-  * Develop Federated Learning solutions for the Privacy-enhancing technologies
+* <b>Machine Learning Engineering<b> - Intern, [Devron](devron.ai/solutions) 
+  * <b>Supervisor<b>: [Sidhartha Roy](https://www.sidhartharoy.com/)
+  * <b>Lead<b> the aggregation algorithm core for the data-private cross-silo federated learning framework.
+  * <b>Develop<b> Federated Learning solutions for the Privacy-enhancing technologies
 
 Research Experience
 ======
 * Graduate Research Assistant, Mississippi State University, 2018 - 2023
-  * Supervisor: Prof. [Bo Tang](https://my.ece.msstate.edu/faculty/tang/) 
-  * Propose a novel continual lifelong learning algorithm, sponsored by Prof. Tang's NSF CAREER Award: ``Towards Biologically Inspired Lifelong Learning with Multimodal Association".
-  * Provide a distributed machine learning framework with multiple proposed federated learning algorithms on security, multi-server, and generalization. Cooperated with Zhe Qu from University of South Florida and Prof. Jie Xu from University of Miami.
+  * <b>Supervisor<b>: Prof. [Bo Tang](https://my.ece.msstate.edu/faculty/tang/) 
+  * <b>Propose<b> a novel continual lifelong learning algorithm, sponsored by Prof. Tang's NSF CAREER Award: ``Towards Biologically Inspired Lifelong Learning with Multimodal Association".
+  * <b>Provide<b> a distributed machine learning framework with multiple proposed federated learning algorithms on security, multi-server, and generalization. Cooperated with [Zhe Qu](https://zhequ1992.github.io) from University of South Florida and Prof. [Jie Xu](https://people.miami.edu/profile/jiexu@miami.edu) from University of Miami.
   <!-- [academicpages template](https://github.com/academicpages/academicpages.github.io) -->
 
 <!-- * Fall 2015: Research Assistant
@@ -39,7 +39,7 @@ Research Experience
 
 Skills
 ======
-* Programming Languages and Frameworks
+* <b>Programming Languages and Frameworks<b>
   * Python, Pytorch, Tensorflow, Sklearn, Pandas, Numpy, Matplotlib, MlFlow, Docker
 * Developer Tools 
   * Git, Unix, Shell, Vscode, Anaconda, Jupyter, AWS
