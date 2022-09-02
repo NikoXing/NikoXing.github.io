@@ -7,7 +7,7 @@ author_profile: true
 
 In Submission
 =====
-1. **Xingyu Li\***, Zhe Qu\*, Bo Tang, and Zhuo Lu, "FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation". Accepted pending major revisions. \*Equal contribution
+1. **Xingyu Li**, Zhe Qu, Bo Tang, and Zhuo Lu, "FedLGA: Towards System-Heterogeneity of Federated Learning via Local Gradient Approximation". Accepted pending major revisions. 
 
 2. **Xingyu Li**,, Bo. Tang, and Haifeng. Li, "AdaER: An Adaptive Experience Replay Approach for Continual Lifelong Learning". Submitted for publication. 
 
