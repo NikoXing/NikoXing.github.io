@@ -19,7 +19,7 @@ Education
 
 Work Experience
 ======
-* Machine Learning Engineering - Intern, [Devron](devron.ai/solutions) 
+* Machine Learning Engineering - Intern, [Devron](https://devron.ai/) 
   * Supervisor: [Sidhartha Roy](https://www.sidhartharoy.com/)
   * Lead the aggregation algorithm core for the data-private cross-silo federated learning framework.
   * Develop Federated Learning solutions for the Privacy-enhancing technologies
