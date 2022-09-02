@@ -15,24 +15,21 @@ Education
   * Advisor: Prof. Bo Tang
 * M.S. in Computer Engineering, Stevens Institute of Technology, 2015 - 2017
 * B.S. in Electrical Engineering, Xiamen University, 2011 - 2015
-
+  * Bachelor Study Abroad Program, National Tsing Hua University, Jan - May 2013
 
 Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Machine Learning Engineering - Intern, Devron 
+  * Supervisor: [Sidhartha Roy](https://www.sidhartharoy.com/)
+  * Lead the aggregation algorithm core for the data-private cross-silo federated learning framework.
+  * Develop Federated Learning solutions for the Privacy-enhancing technologies
 
 Research Experience
 ======
 * Graduate Research Assistant, Mississippi State University, 2018 - 2023
   * Supervisor: Prof. [Bo Tang](https://my.ece.msstate.edu/faculty/tang/) 
+  * Propose a novel continual lifelong learning algorithm, sponsored by Prof. Tang's NSF CAREER Award: ``Towards Biologically Inspired Lifelong Learning with Multimodal Association".
+  * Provide a distributed machine learning framework with multiple proposed federated learning algorithms on security, multi-server, and generalization. Cooperated with Zhe Qu from University of South Florida and Prof. Jie Xu from University of Miami.
   <!-- [academicpages template](https://github.com/academicpages/academicpages.github.io) -->
 
 <!-- * Fall 2015: Research Assistant
