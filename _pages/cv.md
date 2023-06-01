@@ -19,6 +19,13 @@ Education
 
 Work Experience
 ======
+* **Machine Learning Research** - Intern, [Bosch AI](https://www.bosch-ai.com/) 
+  * Supervisor: [Zhenzhen Li]
+  * Research project on federated representative learning in the latent space.
+  * Develop Federated Learning solutions for fundamental generative AI.
+
+<br/>
+
 * **Machine Learning Engineering** - Intern, [Devron](https://devron.ai/) 
   * Supervisor: [Sidhartha Roy](https://www.sidhartharoy.com/)
   * Lead the aggregation algorithm core for the data-private cross-silo federated learning framework.
