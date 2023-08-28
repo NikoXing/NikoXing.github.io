@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Xingyu Li"
   avatar           : "Xingyu_li.jpg"
-  bio              : "Ph.D. Mississippi State University, <br> Machine Learning Researcher - Intern at Bosch AI"
-  location         : "Pittsburgh, PA"
+  bio              : "PhD, Postdoctoral Fellow at Department of Computer Science, Tulane University"
+  # Ph.D. Mississippi State University, <br> Machine Learning Researcher - Intern at Bosch AI"
+  location         : "New Orleans, LA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=stA6f5YAAAAJ&hl=en"
-  email            : "xl292@msstate.edu"
+  email            : "xli82@tulane.edu"
   researchgate     : #"https://www.researchgate.net/profile/Xingyu-Li-5"
   uri              :
   bitbucket        :
