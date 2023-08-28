@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (Aug 2022)"
+title: "CV (Aug 2023)"
 permalink: /cv/
 author_profile: true
 redirect_from:
