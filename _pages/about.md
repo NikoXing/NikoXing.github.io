@@ -18,9 +18,9 @@ Between March and August 2023, I undertook a role as a Machine Learning Research
 
 My scholarly contributions primarily revolve around the following domains:
 
-1. **Federated Learning:** Investigating the decentralized architecture for machine learning to enhance data privacy and model efficacy.
-2. **Secure and Private Machine Learning:** Exploring techniques to safeguard data and model integrity.
-3. **Machine Learning Generalization on Foundational Models:** Assessing the adaptability and scalability of large foundation models.
+1. **On-Device Learning on Foundational Models:** Assessing the adaptability, scalability, and deployment of foundation models to on-device applications.
+2. **Generalization on Large Language and Vision-Language Models:**
+3. **Federated Learning:** Investigating the decentralized architecture for machine learning to enhance optimization robustness, data privacy, and model efficacy.
 4. **Continual Lifelong Learning:** Developing bio-inspired artificial intelligence systems that adapt and learn throughout their lifetimes.
 
 Please visit my [Curriculum Vitae](https://nikoxing.github.io/cv/) and [Publications](https://nikoxing.github.io/publications/) for more information!
