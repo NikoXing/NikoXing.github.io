@@ -7,10 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:red">I am currently in the job market, if you are interested in my research and work experience, please feel free to contact me at **xli82@tulane.edu**! 
+<span style="color:red">If you are interested in my research and work experience, please feel free to contact me at **xingyu.li@oracle.com**! 
 </span>
 
-I am Xingyu Li, a Postdoctoral Fellow in the [Department of Computer Science](https://sse.tulane.edu/cs/postdoctoral-fellows), Tulane University, collaborating with Prof. [Lu Peng](https://cs.tulane.edu/~lpeng3/) in pioneering research related to Secure and Private Machine Learning, specifically tailored for Medical and Healthcare applications. 
+I am Xingyu Li, an Applied Scientist at Oracle, focusing on Large Language Models and GenAI Agents. Previously, I was a Postdoctoral Fellow in the [Department of Computer Science](https://sse.tulane.edu/cs/), Tulane University, collaborating with Prof. Lu Peng on pioneering research related to Secure and Private Machine Learning, specifically tailored for Medical and Healthcare applications.
+
+<!-- I am Xingyu Li, a Postdoctoral Fellow in the [Department of Computer Science](https://sse.tulane.edu/cs/postdoctoral-fellows), Tulane University, collaborating with Prof. [Lu Peng](https://cs.tulane.edu/~lpeng3/) in pioneering research related to Secure and Private Machine Learning, specifically tailored for Medical and Healthcare applications.  -->
 
 I earned my Ph.D. degree in the [Department of Electrical and Computer Engineering](https://www.ece.msstate.edu/), Mississippi State University in May 2023, where I was under the distinguished supervision from Prof. [Bo Tang](https://users.wpi.edu/~btang1/), my dessertation title is . Prior to my doctoral studies, I completed my Master's degree from [Stevens Institute of Technology](https://www.stevens.edu/) in 2017 and obtained my Bachelor's degree from [Xiamen University](https://www.xmu.edu.cn/) in 2015. 
 
@@ -19,8 +21,9 @@ Between March and August 2023, I undertook a role as a Machine Learning Research
 My scholarly contributions primarily revolve around the following domains:
 
 1. **On-Device Learning on Foundational Models:** Assessing the adaptability, scalability, and deployment of foundation models to on-device applications.
-2. **Generalization on Large Language and Vision-Language Models:**
-3. **Federated Learning:** Investigating the decentralized architecture for machine learning to enhance optimization robustness, data privacy, and model efficacy.
-4. **Continual Lifelong Learning:** Developing bio-inspired artificial intelligence systems that adapt and learn throughout their lifetimes.
+2. **Generalization on Large Language and Vision-Language Models**
+3. **Large Language Model and GenAI Agent**
+4. **Federated Learning:** Investigating the decentralized architecture for machine learning to enhance optimization robustness, data privacy, and model efficacy.
+5. **Continual Lifelong Learning:** Developing bio-inspired artificial intelligence systems that adapt and learn throughout their lifetimes.
 
 Please visit my [Curriculum Vitae](https://nikoxing.github.io/cv/) and [Publications](https://nikoxing.github.io/publications/) for more information!
